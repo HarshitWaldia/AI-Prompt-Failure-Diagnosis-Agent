@@ -1017,7 +1017,7 @@ Have questions or suggestions?
 
 - 📧 Email: harshitwaldia112@gmail.com
 - 🐦 Twitter: [@HarshitWaldia](https://x.com/HarshitWaldia)
-- 💼 LinkedIn: [Harshit Waldia](https://www.linkedin.com/in/harshitwaldia/)
+- 💼 LinkedIn: [Harshit Waldia](https://www.linkedin.com/in/harshit-waldia/)
 - ⚙️ GitHub: [@HarshitWaldia](https://github.com/HarshitWaldia)
 
 ---
