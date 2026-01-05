@@ -247,7 +247,7 @@ State Flow:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/prompt-diagnosis-agent.git
+git clone https://github.com/HarshitWaldia/AI-Prompt-Failure-Diagnosis-Agent.git
 cd prompt-diagnosis-agent
 ```
 
